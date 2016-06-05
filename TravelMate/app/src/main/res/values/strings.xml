@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TravelMate</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="running_process">這裡是正在進行的行程檢視</string>
+    <string name="planing_process">這裡是規劃中的行程檢視</string>
+    <string name="ending_process">這裡是已完成的行程檢視</string>
+    <string name="other_process">這裡是他人的行程檢視</string>
+
+    <string name="login_buttom">login_buttom</string>
+    <string name="hintUsername">Username / Email Address</string>
+    <string name="hintPassword">Password</string>
+    <string name="btn_login">btn_login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
